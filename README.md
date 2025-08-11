@@ -1,0 +1,8 @@
+# Overview
+This repo contains files to generate some legendre sequences by combining two prime numbers which sums to 1500 and calculate their ACR and CCR value.
+
+# File Description
+- `Main_Program_V2.py` is the main file to generate sequences using those combinations from `combinations.txt` file.
+- `legendre_sequence_generator.py` is to generate legendre sequences.
+- `combined_legendre.py` file to combine two legendre sequences and then find their ACR and CCR.
+- 
