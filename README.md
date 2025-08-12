@@ -5,4 +5,5 @@ This repo contains files to generate some legendre sequences by combining two pr
 - `Main_Program_V2.py` is the main file to generate sequences using those combinations from `combinations.txt` file.
 - `legendre_sequence_generator.py` is to generate legendre sequences.
 - `combined_legendre.py` file to combine two legendre sequences and then find their ACR and CCR.
+- `LunaNet_signal.py` file is to find the ACR value by generating the LunaNet signals.
 - 
